@@ -1,4 +1,4 @@
-const Declare = require("../cloned-app/");
+const Declare = require("../_cloned-app");
 
 const testValue = "Hanodrim-Rules";
 const testError = new Error("fuck me, an error");
